@@ -13,7 +13,7 @@ I thought I understood using loops but it's a concept I will continue to revisit
 Im still scratching my head on the infinite repeating code; but I did have the idea to use a boolean statement to try and break that up, but ultimately I ended up using a method to do it, its possible that I may have cleared the bug by pure happenstance.
 
 ### Technologies Used
-Scanner
-If Else statements
-Math Operations(*,-,+,÷,mod,casting, and rounding, etc)
-Method
+Scanner,
+If Else statements,
+Math Operations(*,-,+,÷,mod,casting, and rounding, etc),
+and one Method.
